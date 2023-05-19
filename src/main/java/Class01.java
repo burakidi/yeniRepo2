@@ -15,8 +15,8 @@ public class Class01 {
 
         //localden sevgilerle...
         //v6....
-
-
+//v7 remote
+       
 
 
     }
