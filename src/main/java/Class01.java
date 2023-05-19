@@ -10,6 +10,8 @@ public class Class01 {
         System.out.println(x+y+z);
 
 //v3 kodalrı...
+//v4 çalışmalar..
+
 
     }
 }
