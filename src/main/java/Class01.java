@@ -9,7 +9,7 @@ public class Class01 {
         int z=4;
         System.out.println(x+y+z);
 
-
+//v3 kodalrı...
 
     }
 }
